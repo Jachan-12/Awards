@@ -1,0 +1,27 @@
+img {
+    height:250px;
+}
+body {
+    background-color:black;
+    text-align:center;
+    font-family: 'Black Han Sans', sans-serif;
+}
+p {
+    font-size:30px;
+    color:orange;
+    cursor:pointer;
+}
+h2 {
+    color:white;
+    background-color:black;
+}
+h2:hover {
+    color:blue;
+}
+h1 {
+    color:white;
+}
+
+p:hover {
+    color:blue;
+}
